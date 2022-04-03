@@ -6,7 +6,7 @@ Actualmente trabajo como desarrollador de aplicaciones móviles en flutter.
 
 Mis conocimientos: 
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Java>&color=<Green>
+https://img.shields.io/static/v1?label=<LABEL>&message=Java&color=Green
   Tengo conocimientos en desarrollo de aplicaciones web y de escritorio en java y python.
 
   Soy administrador del sistema operativo Linux.
