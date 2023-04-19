@@ -1,22 +1,13 @@
 ### Hi there 👋 My name is Alfonso Yañez
 
-Español:
+Hola mi nombre es Alfonso Yañez y soy analista programador, Tengo concimiento en varias tecnologias como son:
 
-Actualmente trabajo como desarrollador de aplicaciones móviles en flutter.
+  1- Java
+  2- Python 
+  3- Javascript
+  4- Node js
+  5- react
+  6- Linux
+  7- Flutter
 
-Mis conocimientos: 
-  Tengo conocimientos en desarrollo de aplicaciones web y de escritorio en java y python.
-
-  Soy administrador del sistema operativo Linux.
-  
-  Desarrollo de aplicaciones moviles con flutter.
-
-English:
-
-I currently work as a mobile app developer at flutter.
-
-My knowledge: I have knowledge in developing desktop and web applications in java and python.
-
-I am a Linux operating system administrator.
-
-Development of mobile applications with flutter.
+Tengo 1 Años experiencia como dearrollador multiplataforma con flutter, 4 Años utilizando linux y 2 años utilizando python.
