@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-Soy Alfonso Yañez, un apasionado desarrollador de software de Santiago,Chile. Me encanta programar y siempre estoy listo para enfrentar nuevos desafíos y aprender nuevas tecnologías.
+Soy Alfonso Yañez, un desarrollador de software de Santiago,Chile. Me encanta programar y siempre estoy listo para enfrentar nuevos desafíos y aprender nuevas tecnologías.
 
 ## 🛠 Habilidades Técnicas
 - Lenguajes de programación: Dart, python, java.
